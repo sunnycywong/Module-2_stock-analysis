@@ -19,7 +19,6 @@ In the 2017 result, we can see that it was a positive year, where almost all, ex
  
 The refactoring code enables us to easily pull out data both years, whereas, the original one was only showing one year. 
 The downside of this code is not able to compare both years side by side. The report user would need to hop in between the two years to do the analysis. Taking screenshots of each result could be an alternative. But ideally, it would be nice to have both years to be set side by side.  
-![image](https://user-images.githubusercontent.com/65827019/155661350-b4b55092-4e5e-4605-900c-68bb74ed6618.png)
 
 <ins> The advantages and disadvantages of the original and refactored VBA script <ins> 
  
