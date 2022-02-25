@@ -15,12 +15,12 @@ In the 2017 result, we can see that it was a positive year, where almost all, ex
 
 ## (3) Summary
 
-#### <ins> *The advantages and disadvantages of refactoring code in general* <ins> 
+### <ins> *The advantages and disadvantages of refactoring code in general* <ins> 
  
 The refactoring code enables us to easily pull out data both years, whereas, the original one was only showing one year. 
 The downside of this code is not able to compare both years side by side. The report user would need to hop in between the two years to do the analysis. Taking screenshots of each result could be an alternative. But ideally, it would be nice to have both years to be set side by side.  
 
  
-#### <ins> *The advantages and disadvantages of the original and refactored VBA script* <ins> 
+### <ins> *The advantages and disadvantages of the original and refactored VBA script* <ins> 
  
 Both the original and refactored VBA script were well organized, which would make it easier to see the workflow and what is being set for the macro. Yet, when comparing the two scripts. It would be questionable whether using “j” for the second loop in the original script is necessary since the coding would still work with keeping “I”. It might be a good practice to use a different assignment statement for each loop to make it easier for reading through the script and understand the flow. 
