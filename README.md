@@ -1,5 +1,5 @@
 # All Stocks Analysis
-Performing analysis on the stock performance in 2017 and 2018.
+Performing analysis on the stock performance in 2017 and 2018 on the [VBA Challenge](https://github.com/sunnycywong/Module-2_stock-analysis/blob/main/VBA_Challenge.xlsm) file.
 
 ## (1) Overview of Project
 To show the yearly return of all the stocks in 2017 and 2018, in order to show the growth of each stock throughout the year and be able to do a comparison between their performance in both 2017 and 2018.
